@@ -1,6 +1,6 @@
 {
-  "name": "temperature-converter",
-  "version": "0.1.0",
+  "name": "@summerqd/temperature-converter",
+  "version": "1.0.0",
   "description": "Convers temperatures between Fahrenheit and Celsius.",
   "main": "index.js",
   "scripts": {
